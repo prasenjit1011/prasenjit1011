@@ -10,7 +10,7 @@ Designing and building scalable, secure, and high-performance applications for m
   <a href="mailto:prasenjit9011@gmail.com">Email</a> •
   <a href="https://react-cloudrun-334684044157.asia-south1.run.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/prasenjit1011/" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/prasenjit1011/prasenjit1011/blob/main/Resume.pdf" target="_blank">Resume</a> •
+  <a href="https://github.com/prasenjit1011/prasenjit1011/blob/main/Resume.pdf" target="_blank">Resume</a>
 </p>
 
 </div>
