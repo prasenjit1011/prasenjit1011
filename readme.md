@@ -9,7 +9,7 @@ Designing and building scalable, secure, and high-performance applications for m
 <p>
   <a href="mailto:prasenjit9011@gmail.com">Email</a> •
   <a href="https://github.com/prasenjit1011">GitHub</a> •
-  <a href="https://linkedin.com/in/your-linkedin-profile">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/prasenjit1011/">LinkedIn</a>
 </p>
 
 </div>
@@ -53,7 +53,7 @@ Experienced across the complete software development lifecycle, from requirement
 
 ### Cloud & DevOps
 
-`AWS` • `Docker` • `Kubernetes` • `GitHub Actions` • `Nginx`
+`AWS` • `GCP` • `Azure` • `Docker` • `Kubernetes` • `GitHub Actions` • `Nginx`
 
 ### Tools & Practices
 
@@ -73,7 +73,7 @@ Experienced across the complete software development lifecycle, from requirement
 
 ## Current Focus
 
-* Building scalable applications with **Node.js** and **NestJS**
+* Building scalable applications with **Node.js** and **NestJS**, **Java**, and **Spring Boot**
 * Developing high-performance frontend solutions using **React** and **Next.js**
 * Designing distributed systems and microservices architectures
 * Exploring cloud-native and containerized application ecosystems
