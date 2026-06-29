@@ -43,7 +43,7 @@ Experienced across the complete software development lifecycle, from requirement
 
 ### Backend
 
-`Node.js` • `NestJS` • `Express.js` • `TypeScript` • `Java` • `Spring Boot`
+`Node.js` • `NestJS` • `Express.js` • `TypeScript` • `Java` • `Spring Boot` • `PHP/Laravel`
 
 ### Frontend
 
