@@ -2,7 +2,7 @@
 
 # Prasenjit Aluni
 
-### Senior Full Stack Engineer | Node.js • NestJS • Spring Boot • React • Next.js
+### Senior Full Stack Engineer | Node.js • NestJS • Spring Boot • PHP/Laravel • React • Next.js
 
 Designing and building scalable, secure, and high-performance applications for modern businesses.
 
